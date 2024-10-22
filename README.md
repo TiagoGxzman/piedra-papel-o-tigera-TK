@@ -1,4 +1,4 @@
-# Piedra, Papel o Tigera
+# Piedra, Papel o Tigera(Tkinter)
 
 ## Descripción
 Este es un juego clásico de Piedra, Papel o Tigera desarrollado con `Tkinter`. El jugador selecciona entre las opciones de piedra, papel o tigera, y juega contra la computadora. Los resultados se muestran en la interfaz y se llevan las estadísticas de victorias, derrotas y empates.
