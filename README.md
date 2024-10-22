@@ -10,7 +10,7 @@ Este es un juego clásico de Piedra, Papel o Tigera desarrollado con `Tkinter`. 
 - Botón de salida para cerrar la aplicación.
 
 ## Requisitos
-- Python 3.x
+- Python 3.11 en adelante.
 - Biblioteca `Tkinter` (viene preinstalada con la mayoría de las distribuciones de Python).
 
 ## Instalación
