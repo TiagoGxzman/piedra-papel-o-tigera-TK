@@ -21,5 +21,5 @@ Este es un juego clásico de Piedra, Papel o Tigera desarrollado con `Tkinter`. 
 1. Ejecuta el archivo principal del juego:
    ```bash
    python piedra_papel_tigera.py
-## Desarrolado por:
+## Desarrollado por:
 Santiago Guzman Garcia
